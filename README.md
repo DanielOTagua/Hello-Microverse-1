@@ -63,11 +63,12 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse 1] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello Microverse Project]** 
+This project is to put into practice the installation of linters and the management of GitHub
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,24 +77,26 @@ For more information on the importance of a professional README for your reposit
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Version Control System</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://git-scm.com/">Git</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Cloud Repository</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://github.com/">Github</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Linters</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
+    <li><a href="https://developer.chrome.com/docs/lighthouse/overview/">Lighthouse</a></li>
+    <li><a href="https://webhint.io/">Webhint</a></li>
+    <li><a href="https://stylelint.io//">Stylelint</a></li>
+</ul>
 </details>
 
 <!-- Features -->
@@ -102,9 +105,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Applying_Linters]**
+- **[Applying_Github_Flow]**
+- **[Applying_Professional_Documentation]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +132,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- **[Visual_Studio_Code]**
 
 <!--
 Example command:
@@ -141,7 +145,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
+**[https://github.com/DanielOTagua/Hello-Microverse-1.git]**
 <!--
 Example commands:
 
@@ -208,17 +212,9 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Daniel O. Tagua**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+ GitHub: [https://github.com/DanielOTagua]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,9 +224,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add_nav_bar]**
+- [ ] **[Add_some_paragraph]**
+- [ ] **[Add_more_styles]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
